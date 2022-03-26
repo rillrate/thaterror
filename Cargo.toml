@@ -1,0 +1,10 @@
+[package]
+name = "thaterror"
+version = "0.0.0"
+edition = "2021"
+authors = ["Denis Kolodin <deniskolodin@gmail.com>"]
+license = "Apache-2.0"
+description = "Useful error types"
+
+[dependencies]
+thiserror = "1.0.30"
